@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaswanth-coder
-- 👀 I’m interested in Cosmology,coding ,cooking ,anime
-- 🌱 I’m currently learning c and c++
-- 💞️ I’m looking to collaborate on artificial intelligence and machine learning
+- 👀 I’m interested in Cosmology,coding ,cooking,Machine Learning,AI,Deep Learning.
+- 🌱 I’m currently learning Ardunio.
+- 💞️ I’m looking to collaborate on artificial intelligence and machine learning.
 - 📫 How to reach me on here on github
 
 <!---
