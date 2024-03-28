@@ -16,7 +16,7 @@ I'm a passionate and driven individual with a Bachelor of Technology in Electron
 - Leveraging technology for disaster relief and humanitarian efforts.
 
 📫 **Connect with me:**  
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/m-jaswanth-kumar-ece-iitk/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/m-jaswanth-kumar-ece-iitk/))
 - Email: astrojaswanth28@gmail.com
 
 ⚡ **Fun fact:**  
